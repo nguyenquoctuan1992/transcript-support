@@ -1,0 +1,571 @@
+1
+00:00:00,000 --> 00:00:03,179
+Kiến thức cơ bản về điện toán đám mây. Sự tiến bộ 
+
+2
+00:00:03,179 --> 00:00:05,220
+của công nghệ và mạng xung quanh, 
+
+3
+00:00:05,220 --> 00:00:07,980
+lưu trữ và khả năng xử lý dã dẫn tới 
+
+4
+00:00:07,980 --> 00:00:10,320
+chuẩn mực điện toán. Ở thế kỉ này, 
+
+5
+00:00:10,320 --> 00:00:12,960
+chúng ta gọi đó là điện toán đám mây hay 
+
+6
+00:00:12,960 --> 00:00:15,690
+đám mây. Vậy điện toán đám mây là gì? 
+
+7
+00:00:15,690 --> 00:00:18,330
+Điện toán đám mây là một mô hình 
+
+8
+00:00:18,330 --> 00:00:20,760
+cho phép truy cập mạng theo yêu cầu 
+
+9
+00:00:20,760 --> 00:00:23,340
+tới các tài nguyên điện toán được chia sẻ, một mô hình 
+
+10
+00:00:23,340 --> 00:00:25,830
+quản lý, lưu trữ và xử lý dữ liệu 
+
+11
+00:00:25,830 --> 00:00:28,800
+trực tuyến qua mạng Internet. Một số 
+
+12
+00:00:28,800 --> 00:00:30,599
+đặc điểm của điện toán đám mây bao gồm: 
+
+13
+00:00:30,599 --> 00:00:33,239
+Dịch vụ theo yêu cầu: Bạn sử dụng dịch vụ khi bạn cần. 
+
+14
+00:00:33,239 --> 00:00:36,660
+Truy cập mạng: Sử dụng Internet làm phương tiện. 
+
+15
+00:00:36,660 --> 00:00:40,680
+Tài nguyên được chia sẻ: Các tài nguyên được 
+
+16
+00:00:40,680 --> 00:00:42,390
+kết hợp cùng nhau và được sử dụng bởi nhiều 
+
+17
+00:00:42,390 --> 00:00:46,110
+khách hàng. Khả năng tùy biến kích cỡ: Cho phép các 
+
+18
+00:00:46,110 --> 00:00:49,289
+tài nguyên co giãn. Ba mô hình dịch vụ của điện toán đám mây: 
+
+19
+00:00:49,289 --> 00:00:53,520
+SaaS, PaaS và IaaS. Điện toán đám mây 
+
+20
+00:00:53,520 --> 00:00:55,500
+cung cấp các dịch vụ khác nhau 
+
+21
+00:00:55,500 --> 00:00:57,989
+dựa trên ba mô hình dịch vụ. Khi 
+
+22
+00:00:57,989 --> 00:01:00,149
+xếp theo dạng kim tự tháp, ba mô hình này 
+
+23
+00:01:00,149 --> 00:01:04,769
+theo thứ tự SaaS, PaaS và IaaS. SaaS là gì? 
+
+24
+00:01:04,769 --> 00:01:08,340
+SaaS hay software as a service (phần mềm dưới dạng dịch vụ) là 
+
+25
+00:01:08,340 --> 00:01:10,860
+dịch vụ cho phép khách hàng trả tiền khi sử dụng
+
+26
+00:01:10,860 --> 00:01:13,799
+các phần mềm ứng dụng theo yêu cầu. Không giống 
+
+27
+00:01:13,799 --> 00:01:16,350
+các chương trình được mua bản quyền, dịch vụ này 
+
+28
+00:01:16,350 --> 00:01:18,420
+độc lập khỏi nền tảng và khách hàng không 
+
+29
+00:01:18,420 --> 00:01:21,150
+cần cài đặt phần mềm trên máy tính cá nhân. 
+
+30
+00:01:21,150 --> 00:01:22,979
+Đám mây sẽ vận hành một đối tượng đơn lẻ 
+
+31
+00:01:22,979 --> 00:01:24,780
+của phần mềm và cho phép nhiều người dùng cuối 
+
+32
+00:01:24,780 --> 00:01:27,330
+sử dụng phần mềm này. Việc này 
+
+33
+00:01:27,330 --> 00:01:29,460
+giúp điện toán đám mây có chi phí rẻ hơn. Tất cả 
+
+34
+00:01:29,460 --> 00:01:31,829
+các tài nguyên chịu trách nhiệm cung cấp SaaS 
+
+35
+00:01:31,829 --> 00:01:34,829
+đều do nhà cung cấp quản lý. 
+
+36
+00:01:34,829 --> 00:01:37,110
+Dịch vụ này có thể được truy cập qua một trình duyệt web 
+
+37
+00:01:37,110 --> 00:01:39,930
+hoặc một ứng dụng client có khối lượng thấp. Ai là người 
+
+38
+00:01:39,930 --> 00:01:43,049
+sử dụng SaaS? - Khách hàng cuối thường là 
+
+39
+00:01:43,049 --> 00:01:45,899
+người sử dụng SaaS. Các sản phẩm tiêu biểu 
+
+40
+00:01:45,899 --> 00:01:49,229
+và dịch vụ của SaaS. Các nhà cung cấp SaaS 
+
+41
+00:01:49,229 --> 00:01:51,060
+nổi tiếng cung cấp các sản phẩm và dịch vụ sau: 
+
+42
+00:01:51,060 --> 00:01:54,000
+Hệ sinh thái Google ví dụ như 
+
+43
+00:01:54,000 --> 00:01:56,460
+Gmail, Google Docs và Google Drive.
+
+44
+00:01:56,460 --> 00:02:00,719
+Microsoft Office 365, HR và các giải pháp helpdesk
+
+45
+00:02:00,719 --> 00:02:03,390
+và các dịch vụ quản lý quan hệ khách hàng 
+
+46
+00:02:03,390 --> 00:02:05,610
+ví dụ như Salesforce.
+
+47
+00:02:05,610 --> 00:02:09,270
+Ưu điểm: Có thể được truy cập trên toàn cầu 
+
+48
+00:02:09,270 --> 00:02:12,270
+từ bất kì nền tảng nào. Không cần phải di chuyển, 
+
+49
+00:02:12,270 --> 00:02:13,940
+bạn có thể làm việc từ bất cứ đâu. 
+
+50
+00:02:13,940 --> 00:02:15,500
+Tuyệt vời đối với làm việc nhóm. 
+
+51
+00:02:15,500 --> 00:02:18,710
+Các nhà cung cấp cung cấp các công cụ phần mềm phải chăng. 
+
+52
+00:02:18,710 --> 00:02:22,730
+Cho phép multi-tenancy (nhiều tenant). Nhược điểm: 
+
+53
+00:02:22,730 --> 00:02:26,750
+Khả năng di chueyẻn và các vấn đề trình duyệt. Hiệu suất Internet 
+
+54
+00:02:26,750 --> 00:02:28,730
+có thể ảnh hưởng tới hiệu suất chung. 
+
+55
+00:02:28,730 --> 00:02:32,500
+Giới hạn tuân thủ. 
+
+56
+00:02:32,500 --> 00:02:34,900
+PaaS là gì? PaaS hay 
+
+57
+00:02:34,900 --> 00:02:37,540
+platform-as-a-service (nền tảng dưới dạng dịch vụ). Dịch vụ này 
+
+58
+00:02:37,540 --> 00:02:39,640
+chủ yếu là một môi trường phát triển và 
+
+59
+00:02:39,640 --> 00:02:40,930
+được cấu thành bởi một môi trường
+
+60
+00:02:40,930 --> 00:02:43,630
+thực thi ngôn ngữ lập trình, một hệ 
+
+61
+00:02:43,630 --> 00:02:46,570
+điều hành, một máy chủ web và một cơ sở dữ liệu. 
+
+62
+00:02:46,570 --> 00:02:48,610
+Tất cả điều này đóng gói thành một môi trường 
+
+63
+00:02:48,610 --> 00:02:50,980
+trong đó người dùng có thể xây dựng, biên soạn và chạy 
+
+64
+00:02:50,980 --> 00:02:53,110
+các chương trình mà không cần lo lắng về 
+
+65
+00:02:53,110 --> 00:02:55,810
+các cơ sở vật chất nền tảng. Trong mô hình này 
+
+66
+00:02:55,810 --> 00:02:58,000
+bạn quản lý dữ liệu và các tài nguyên 
+
+67
+00:02:58,000 --> 00:03:00,220
+ứng dụng. Các tài nguyên khác 
+
+68
+00:03:00,220 --> 00:03:04,000
+được quản lý bởi nhà cung cấp. Ai là người sử dụng PaaS? 
+
+69
+00:03:04,000 --> 00:03:06,760
+Đây là miền cho các nhà phát triển. Các 
+
+70
+00:03:06,760 --> 00:03:09,700
+sản phầm và dịch vụ mẫu của PaaS. 
+
+71
+00:03:09,700 --> 00:03:11,860
+Các nhà cung cấp đám mây cung cấp các sản phẩm và dịch vụ PaaS 
+
+72
+00:03:11,860 --> 00:03:14,739
+sau: Amazon Web
+
+73
+00:03:14,739 --> 00:03:17,770
+Services, Elastic Beanstalk, Google App
+
+74
+00:03:17,770 --> 00:03:20,500
+Engine, Windows Azure, Heroku và
+
+75
+00:03:20,500 --> 00:03:24,550
+force.com. Ưu điểm: Hiệu quả chi phí, phát triển 
+
+76
+00:03:24,550 --> 00:03:27,610
+nhanh chóng. Có thể tùy chỉnh kích cỡ. Thị trường nhanh hơn 
+
+77
+00:03:27,610 --> 00:03:30,550
+cho các nhà phát triển. Dễ dàng phát triển 
+
+78
+00:03:30,550 --> 00:03:32,770
+các ứng dụng web. Có thể triển khai cá nhân hoặc 
+
+79
+00:03:32,770 --> 00:03:36,730
+công khai. Nhược điểm: Các nhà phát triển 
+
+80
+00:03:36,730 --> 00:03:39,130
+bị giới hạn trong ngôn ngữ và công cụ của 
+
+81
+00:03:39,130 --> 00:03:42,489
+nhà cung cấp. Các vấn đề migration ví dụ như nguy cơ 
+
+82
+00:03:42,489 --> 00:03:44,560
+bị độc quyền, giới hạn trong một nhà cung cấp. 
+
+83
+00:03:44,560 --> 00:03:47,290
+IaaS là gì? IaaS hay
+
+84
+00:03:47,290 --> 00:03:49,959
+infrastructure-as-a-service (cơ sở vật chất dưới dạng dịch vụ). Dịch vụ này 
+
+85
+00:03:49,959 --> 00:03:51,910
+cung cấp kiến trúc điện toán và 
+
+86
+00:03:51,910 --> 00:03:54,610
+cơ sở vật chất. Nghĩa là dịch vụ này hỗ trợ tất cả 
+
+87
+00:03:54,610 --> 00:03:56,830
+tài nguyên điện toán nhưng trong một môi trường ảo 
+
+88
+00:03:56,830 --> 00:03:59,140
+vì vậy nhiều người dùng có thể 
+
+89
+00:03:59,140 --> 00:04:02,170
+truy cập. Các tài nguyên này bao gồm 
+
+90
+00:04:02,170 --> 00:04:05,260
+lưu trữ dữ liệu, ảo hóa, các máy chủ và 
+
+91
+00:04:05,260 --> 00:04:08,080
+mạng. Hầu hết các nhà cung cấp đều chịu trách nhiệm 
+
+92
+00:04:08,080 --> 00:04:10,330
+quản lý các tài nguyên nói trên. Nếu 
+
+93
+00:04:10,330 --> 00:04:12,790
+sử dụng dịch vụ này, bạn sẽ chịu trách nhiệm 
+
+94
+00:04:12,790 --> 00:04:15,010
+xử lý các tài nguyên khác như 
+
+95
+00:04:15,010 --> 00:04:18,250
+ứng dụng, dữ liệu, runtime và 
+
+96
+00:04:18,250 --> 00:04:19,740
+middleware. Ai là người sử dụng IaaS?
+
+97
+00:04:19,740 --> 00:04:22,150
+IaaS chủ yếu dành cho
+
+98
+00:04:22,150 --> 00:04:24,910
+SysAdmin. Các sản phẩm 
+
+99
+00:04:24,910 --> 00:04:28,540
+và dịch vụ tiêu biểu của IaaS: bao gồm Amazon EC2,
+
+100
+00:04:28,540 --> 00:04:33,790
+GoGrrid và Rackspace.com. Ưu điểm: đám mây 
+
+101
+00:04:33,790 --> 00:04:35,050
+cung cấp cơ sở vật chất. 
+
+102
+00:04:35,050 --> 00:04:38,710
+Hỗ trợ khả năng tùy chỉnh kích cỡ được cải thiện và khối lượng công việc động. 
+
+103
+00:04:38,710 --> 00:04:42,460
+IaaS rất linh hoạt. Nhược điểm: 
+
+104
+00:04:42,460 --> 00:04:45,729
+Vấn đề bảo mật. Độ trễ mạng và dịch vụ. 
+
+105
+00:04:45,729 --> 00:04:49,060
+Một số công ty sử dụng điện toán 
+
+106
+00:04:49,060 --> 00:04:53,320
+đám mây: AWS của Amazon hay Amazon
+
+107
+00:04:53,320 --> 00:04:55,900
+Web Services. Khi nhắc tới các công ty 
+
+108
+00:04:55,900 --> 00:04:59,140
+sử dụng điện toán đám mây, AWS là công ty hàng đầu.
+
+109
+00:04:59,140 --> 00:05:02,110
+Công ty điện toán đám mây này cung cấp dịch vụ IaaS 
+
+110
+00:05:02,110 --> 00:05:05,110
+và PaaS cho khách hàng. Công ty 
+
+111
+00:05:05,110 --> 00:05:07,060
+nổi tiếng nhờ dịch vụ Elastic Compute cloud hay
+
+112
+00:05:07,060 --> 00:05:10,479
+EC2 và ngoài ra còn có các dịch vụ khác như Elastic
+
+113
+00:05:10,479 --> 00:05:13,870
+beanstalk, Simple Storage Service (S3) và
+
+114
+00:05:13,870 --> 00:05:17,830
+Relational Database Service (dịch vụ cơ sở dữ liệu quan hệ) hay RDS. Ngoài
+
+115
+00:05:17,830 --> 00:05:19,330
+bộ sản phẩm điện toán đám mây toàn diện, 
+
+116
+00:05:19,330 --> 00:05:21,850
+công ty còn cung cấp các dịch vụ liên quan tới đám mây 
+
+117
+00:05:21,850 --> 00:05:23,860
+bao gồm internet of things
+
+118
+00:05:23,860 --> 00:05:27,310
+(IOT), bảo mật đám mây và dịch vụ di động. 
+
+119
+00:05:27,310 --> 00:05:31,060
+iCloud: Đám mây của Apple này chủ yếu dành cho
+
+120
+00:05:31,060 --> 00:05:33,400
+các sản phẩm Apple và cho phép bạn 
+
+121
+00:05:33,400 --> 00:05:35,860
+sao lưu và lưu trữ tất cả đa phương tiện 
+
+122
+00:05:35,860 --> 00:05:38,770
+và các tài liệu khác trực tuyến. Nội dung này 
+
+123
+00:05:38,770 --> 00:05:40,930
+sau đó sẽ liên tục được tích hợp vào tất cả 
+
+124
+00:05:40,930 --> 00:05:43,450
+các dịch vụ hay ứng dụng khi bạn tryu cập.
+
+125
+00:05:43,450 --> 00:05:47,620
+Microsoft Azure: Đám mây này được
+
+126
+00:05:47,620 --> 00:05:50,470
+sử dụng và cung cấp bởi Microsoft. Đám mây cung cấp dịch vụ
+
+127
+00:05:50,470 --> 00:05:53,380
+IaaS, PaaS và SaaS cho các phần mềm doanh nghiệp 
+
+128
+00:05:53,380 --> 00:05:55,870
+và công cụ nhà phát triển. Nếu bạn 
+
+129
+00:05:55,870 --> 00:05:58,270
+từng sử dụng sản phẩm Office 365, 
+
+130
+00:05:58,270 --> 00:06:02,170
+bạn đã sử dụng SaaS. Google Cloud: nền tảng 
+
+131
+00:06:02,170 --> 00:06:04,360
+Google cloud là một đám mây toàn cầu 
+
+132
+00:06:04,360 --> 00:06:06,640
+dành cho hệ sinh thái rộng lớn của Google và 
+
+133
+00:06:06,640 --> 00:06:08,560
+các sản phẩm khác, ví dụ như
+
+134
+00:06:08,560 --> 00:06:11,440
+Microsoft Office. Dịch vụ này cho phép hợp tác, 
+
+135
+00:06:11,440 --> 00:06:14,260
+lưu trữ dữ liệu và cung cấp các dịch vụ khác 
+
+136
+00:06:14,260 --> 00:06:17,830
+trong gói điệ toán đám mây. IBM
+
+137
+00:06:17,830 --> 00:06:20,410
+SmartCloud: Sử dụng mô hình triển khai Private (Cá nhân), Public (Công khai) và 
+
+138
+00:06:20,410 --> 00:06:23,260
+Hybrid (Hỗn hợp), IBM SmartCloud
+
+139
+00:06:23,260 --> 00:06:26,440
+cung cấp các dịch vụ IaaS, Paas và SaaS
+
+140
+00:06:26,440 --> 00:06:28,750
+cho các doanh nghiệp. 
+
+141
+00:06:28,750 --> 00:06:31,420
+Sử dụng mô hình chi trả theo mức sử dụng, đám mây này 
+
+142
+00:06:31,420 --> 00:06:35,340
+đem lại doanh thu cho IBM. 
+
+143
+00:06:41,260 --> 00:00:00,000
+
