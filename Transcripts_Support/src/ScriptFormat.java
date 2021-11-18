@@ -16,6 +16,7 @@ public class ScriptFormat {
 	private static final String UNDERSCORE = "_";
 	private static final String DOT = ".";
 	private static final String EMPTY = "";
+	private static final String SPACE = " ";
 	private static final String USER_DIRECTORY = "user.dir";
 	private static final String DEFAULT_EXTENSION = "srt";
 	private static final String INPUT_FOLDER = "\\Input";
@@ -32,7 +33,12 @@ public class ScriptFormat {
 			String line;
 			while ((line = reader.readLine()) != null) {
 				if (!isIgnoreLine(line)) {
-					outputScript.append(line);
+					if (line.endsWith(SPACE)) {
+						outputScript.append(line);
+					} else {
+						outputScript.append(line).append(SPACE);
+					}
+					
 				}
 			}
 
